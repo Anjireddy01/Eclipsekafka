@@ -54,3 +54,5 @@ public class SimpleProducer
                producer.close();
    }
 }
+
+//Added
